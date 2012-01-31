@@ -1,0 +1,15 @@
+C:\Users\Administrator\Dropbox\CSharp\Projects\ConnorcpuChatApp\ConnorcpuChatClient\bin\Debug\ConnorcpuChatClient.exe
+C:\Users\Administrator\Dropbox\CSharp\Projects\ConnorcpuChatApp\ConnorcpuChatClient\bin\Debug\ConnorcpuChatClient.pdb
+C:\Users\Administrator\Dropbox\CSharp\Projects\ConnorcpuChatApp\ConnorcpuChatClient\bin\Debug\ConnorcpuChatCommon.dll
+C:\Users\Administrator\Dropbox\CSharp\Projects\ConnorcpuChatApp\ConnorcpuChatClient\bin\Debug\ConnorcpuChatCommon.pdb
+C:\Users\Administrator\Dropbox\CSharp\Projects\ConnorcpuChatApp\ConnorcpuChatClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\CSharp\Projects\ConnorcpuChatApp\ConnorcpuChatClient\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Dropbox\CSharp\Projects\ConnorcpuChatApp\ConnorcpuChatClient\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Dropbox\CSharp\Projects\ConnorcpuChatApp\ConnorcpuChatClient\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Dropbox\CSharp\Projects\ConnorcpuChatApp\ConnorcpuChatClient\obj\x86\Debug\ConnorcpuChatClient_MarkupCompile.cache
+C:\Users\Administrator\Dropbox\CSharp\Projects\ConnorcpuChatApp\ConnorcpuChatClient\obj\x86\Debug\ConnorcpuChatClient.g.resources
+C:\Users\Administrator\Dropbox\CSharp\Projects\ConnorcpuChatApp\ConnorcpuChatClient\obj\x86\Debug\ConnorcpuChatClient.Properties.Resources.resources
+C:\Users\Administrator\Dropbox\CSharp\Projects\ConnorcpuChatApp\ConnorcpuChatClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Dropbox\CSharp\Projects\ConnorcpuChatApp\ConnorcpuChatClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Dropbox\CSharp\Projects\ConnorcpuChatApp\ConnorcpuChatClient\obj\x86\Debug\ConnorcpuChatClient.exe
+C:\Users\Administrator\Dropbox\CSharp\Projects\ConnorcpuChatApp\ConnorcpuChatClient\obj\x86\Debug\ConnorcpuChatClient.pdb

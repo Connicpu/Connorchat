@@ -1,0 +1,8 @@
+C:\Users\Administrator\Dropbox\CSharp\Projects\ConnorcpuChatApp\ConnorcpuChatApp\bin\Debug\ConnorcpuChatServer.exe.config
+C:\Users\Administrator\Dropbox\CSharp\Projects\ConnorcpuChatApp\ConnorcpuChatApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\CSharp\Projects\ConnorcpuChatApp\ConnorcpuChatApp\bin\Debug\ConnorcpuChatServer.exe
+C:\Users\Administrator\Dropbox\CSharp\Projects\ConnorcpuChatApp\ConnorcpuChatApp\bin\Debug\ConnorcpuChatServer.pdb
+C:\Users\Administrator\Dropbox\CSharp\Projects\ConnorcpuChatApp\ConnorcpuChatApp\bin\Debug\ConnorcpuChatCommon.dll
+C:\Users\Administrator\Dropbox\CSharp\Projects\ConnorcpuChatApp\ConnorcpuChatApp\bin\Debug\ConnorcpuChatCommon.pdb
+C:\Users\Administrator\Dropbox\CSharp\Projects\ConnorcpuChatApp\ConnorcpuChatApp\obj\x86\Debug\ConnorcpuChatServer.exe
+C:\Users\Administrator\Dropbox\CSharp\Projects\ConnorcpuChatApp\ConnorcpuChatApp\obj\x86\Debug\ConnorcpuChatServer.pdb

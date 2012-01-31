@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="12824614-8AB1-48B3-8BC5-62CC0C6DF040" ModuleId="ConnorcpuChatApp" />
+  <Module PersistentId="BFD428E1-CDCB-4E2A-A988-7E38F48BD6A9" ModuleId="ConnorcpuChatClient_1" />
+  <Module PersistentId="C5DF5DC4-0F85-4E05-A1EB-1008BC70C189" ModuleId="ConnorcpuChatCommon" />
+</Modules>
